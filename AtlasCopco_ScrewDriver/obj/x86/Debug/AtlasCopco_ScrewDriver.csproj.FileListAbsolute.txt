@@ -1,0 +1,16 @@
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\bin\Debug\AtlasCopco_ScrewDriver.exe
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\bin\Debug\AtlasCopco_ScrewDriver.pdb
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.MainForm.resources
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.Properties.Resources.resources
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.csproj.GenerateResource.Cache
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.exe
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.pdb
+D:\Flextronics Design\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.csprojResolveAssemblyReference.cache
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.exe
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.pdb
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\bin\Debug\AtlasCopco_ScrewDriver.exe
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\bin\Debug\AtlasCopco_ScrewDriver.pdb
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.csprojResolveAssemblyReference.cache
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.MainForm.resources
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.Properties.Resources.resources
+D:\Flextronics Design\AtlasCopco_Modified\AtlasCopco_ScrewDriver\AtlasCopco_ScrewDriver\obj\x86\Debug\AtlasCopco_ScrewDriver.csproj.GenerateResource.Cache
